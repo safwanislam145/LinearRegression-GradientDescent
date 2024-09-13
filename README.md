@@ -10,6 +10,10 @@ This notebook demonstrates the concept of vectorization in machine learning. Vec
 ### lr_cost_gradientdescent.ipynb
 This notebook covers the implementation of linear regression using gradient descent. It includes the calculation of the cost function and the gradient descent algorithm to optimize the parameters.
 
+### Restaurant_Profit_Prediction_LR.ipynb
+This project aims to predict the profit of a restaurant based on the population of the city it is located in. The prediction is made using a simple linear regression model.
+
+
 # Requirements
 Python 3.x
 numpy library
